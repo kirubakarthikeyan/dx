@@ -1,0 +1,9 @@
+[submodule "ide"]
+	path = ide
+	url = https://github.com/Terrapilot/ide.git
+[submodule "platform"]
+	path = platform
+	url = https://github.com/Terrapilot/platform.git
+[submodule "web"]
+	path = web
+	url = git@github.com:Terrapilot/web.git
