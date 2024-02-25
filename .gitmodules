@@ -6,4 +6,4 @@
 	url = https://github.com/Terrapilot/platform.git
 [submodule "web"]
 	path = web
-	url = git@github.com:Terrapilot/web.git
+	url = https://github.com/Terrapilot/web.git
